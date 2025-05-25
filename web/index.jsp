@@ -17,7 +17,7 @@
             <div class="user d-flex justify-content-center">
                 <img src="recursos/imgs/USER LOGIN IMAGE.jpg" width="200" height="200" alt="alt"/>
             </div>
-            <form action="action">
+            <form action="Login" method="post">
                 <div class="mb-3">
                     <label for="email" class="form-label">email</label>
                     <input type="email" class="form-control" id="email" name="email" placeholder="name@example.com">
